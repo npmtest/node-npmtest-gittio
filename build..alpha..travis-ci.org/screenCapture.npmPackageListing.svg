@@ -1,20 +1,20 @@
 <svg height="270" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="270" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 02:56:16 +0000    59684 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 02:56:16 +0000     9770 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 02:56:16 +0000     6638 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 02:56:16 +0000     5514 bytes  bin/gittio.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 02:56:16 +0000       48 bytes  config.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 02:56:16 +0000     1054 bytes  lib/alloy.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 02:56:16 +0000     4559 bytes  lib/component.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 02:56:16 +0000     5392 bytes  lib/config.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 02:56:16 +0000     2117 bytes  lib/dist.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 02:56:16 +0000      956 bytes  lib/exec.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 02:56:16 +0000    16100 bytes  lib/gittio.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 02:56:16 +0000      373 bytes  lib/logger.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 02:56:16 +0000     2969 bytes  lib/tiapp.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 02:56:16 +0000     1262 bytes  lib/utils.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 02:56:16 +0000     2932 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 05:18:37 +0000    59684 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 05:18:37 +0000     9770 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 05:18:37 +0000     6638 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 05:18:37 +0000     5514 bytes  bin/gittio.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 05:18:37 +0000       48 bytes  config.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 05:18:37 +0000     1054 bytes  lib/alloy.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 05:18:37 +0000     4559 bytes  lib/component.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 05:18:37 +0000     5392 bytes  lib/config.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 05:18:37 +0000     2117 bytes  lib/dist.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 05:18:37 +0000      956 bytes  lib/exec.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 05:18:37 +0000    16100 bytes  lib/gittio.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 05:18:37 +0000      373 bytes  lib/logger.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 05:18:37 +0000     2969 bytes  lib/tiapp.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 05:18:37 +0000     1262 bytes  lib/utils.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 05:18:37 +0000     2932 bytes  package.json</tspan>
 </text>
 </svg>
